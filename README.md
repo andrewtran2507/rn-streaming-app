@@ -4,6 +4,11 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+## Node version
+```bash
+v18.14.0
+```
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
@@ -58,6 +63,20 @@ Now that you have successfully run the app, let's modify it.
 ## Congratulations! :tada:
 
 You've successfully run and modified your React Native App. :partying_face:
+
+## Demo
+---
+![My Remote Imag](https://github.com/andrewtran2507/rn-streaming-app/blob/master/src/assets/demo/img1.jpg?raw=true)
+
+---
+![My Remote Imag](https://github.com/andrewtran2507/rn-streaming-app/blob/master/src/assets/demo/img2.jpg?raw=true)
+
+---
+![My Remote Imag](https://github.com/andrewtran2507/rn-streaming-app/blob/master/src/assets/demo/img3.jpg?raw=true)
+
+---
+![My Remote Imag](https://github.com/andrewtran2507/rn-streaming-app/blob/master/src/assets/demo/img4.jpg?raw=true)
+
 
 ### Now what?
 
